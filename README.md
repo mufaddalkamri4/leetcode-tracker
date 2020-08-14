@@ -11,7 +11,13 @@ All Submissions Fetched
 ```
 3. You can use following commands to list your problems
     - **myData.getAllProblemsAccepted()** : lists all problems for which solutions have been accepted.
+    ```javascript
+    myData.getAllProblemsAccepted()
+    ```
     - **myData.getAllProblemsAttempted()** : list all problems attempted and most recent submission for that problem.
+    ```javascript
+    myData.getAllProblemsAttempted()
+    ```
     
 ## Output
 
