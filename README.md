@@ -14,7 +14,7 @@ All Submissions Fetched
     ```javascript
     myData.getAllProblemsAccepted()
     ```
-    - **myData.getAllProblemsAttempted()** : list all problems attempted and most recent submission for that problem.
+    - **myData.getAllProblemsAttempted()** : lists all problems attempted and most recent submission for each problem.
     ```javascript
     myData.getAllProblemsAttempted()
     ```
